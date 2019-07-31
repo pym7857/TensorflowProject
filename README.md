@@ -43,7 +43,7 @@ python "user_input.py"
 
 ## 핵심사항
 ```
-# offline_save.py: 다변인 선형회귀 모델 개발 & 데이터 저장
+# offline_save.py: 다변인 선형회귀 모델 개발 & 데이터 저장 (model 폴더에 저장)
 # user_input.py: 데이터 불러오기 & 사용자 입력
 
 # Web 폴더는 model / static / templates로 나누어 구성 
