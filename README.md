@@ -41,4 +41,6 @@ python "user_input.py"
 # 이후에 생성된 모델 파일을 웹 서버의 model 폴더에 붙여넣기 하면 적용됩니다.
 ```
 
-- 출처: https://github.com/ndb796/Vegita
+<br>
+<br>
+출처: https://github.com/ndb796/Vegita
