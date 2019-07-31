@@ -2,10 +2,10 @@
 다변인 선형회귀를 이용한 가격예측 프로그램 
 
 ## 시스템 구성도
--
+![structure](./image/structure.png)
 
 ## Web Site
-![1](./image/1.PNG)
+![demo_web](./image/demo_web.PNG)
 
 ## 서버 실행
 ```
@@ -40,3 +40,18 @@ python "user_input.py"
 
 # 이후에 생성된 모델 파일을 웹 서버의 model 폴더에 붙여넣기 하면 적용됩니다.
 ```
+
+## 핵심사항
+```
+# offline_save.py: 다변인 선형회귀 모델 개발 & 데이터 저장 (model 폴더에 저장)
+# user_input.py: 데이터 불러오기 & 사용자 입력
+
+# Web 폴더는 model / static / templates로 나누어 구성 
+# index.html에서 데이터 입력부분은 form 태그로 POST 방식으로 데이터 전송
+
+# server.py: 플라스크(Flask)를 이용해 웹서버 연동 (port:5000)
+```
+
+<br>
+<br>
+출처: https://github.com/ndb796/Vegita
