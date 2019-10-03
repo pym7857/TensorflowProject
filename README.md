@@ -5,9 +5,6 @@
 ![structure](./image/structure.png)
 
 ## Web Site
-![demo_web](./image/demo_web.PNG)
-https://mdbootstrap.com/freebies/
-<br>
 https://mdbootstrap.com/plugins/jquery/video/
 
 ## 서버 실행
@@ -57,4 +54,3 @@ python "user_input.py"
 
 <br>
 <br>
-출처: https://github.com/ndb796/Vegita
