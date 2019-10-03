@@ -1,9 +1,6 @@
 # TensorflowProject
 다변인 선형회귀를 이용한 가격예측 프로그램 
 
-## 시스템 구성도
-![structure](./image/structure.png)
-
 ## Web Site
 https://mdbootstrap.com/plugins/jquery/video/
 
