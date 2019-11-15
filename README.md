@@ -1,16 +1,27 @@
-# TensorflowProject
-다변인 선형회귀를 이용한 가격예측 프로그램 
+# Title
+텐서플로우를 이용한 다변인 선형회귀를 이용한 가격예측 프로그램 
+LSTM 딥러닝을 이용한 한달치 가격 예측
+
+## 텐서플로우 소개 
+```
+설명
+```
+
+## LSTM 소개
+```
+설명
+```
 
 ## Web Site
-https://mdbootstrap.com/plugins/jquery/video/
+https://
 
 ## 서버 실행
 ```
 # 깃 허브에서 소스코드를 다운로드 받습니다.
-git clone https://github.com/pym7857/TensorflowProject.git
+git clone https://github.com/pym7857/ ★ 이름 ★ .git
 
 # 받은 프로젝트 폴더로 이동합니다.
-cd TensorflowProject
+cd ★프로젝트 이름★
 
 # 플라스크 웹 서버 폴더로 이동합니다.
 cd "Web"
@@ -19,7 +30,7 @@ cd "Web"
 python server.py
 ```
 
-## 파이썬 데이터 학습 모델 생성
+## 텐서플로우 데이터 학습 모델 생성
 ```
 # 프로젝트 폴더에서 파이썬 폴더로 이동합니다.
 cd "Python Code"
